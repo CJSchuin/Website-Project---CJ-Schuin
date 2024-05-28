@@ -11,8 +11,6 @@
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
-<!-- Name the Webpage-->
-<title>EES Official</title>
 <div id="wrapper"> 
   <body bgColor="#f2ebeb">
     <div style="height:100px;background:rgb(74, 183, 255);"><p> <h1><div class="topnav">
@@ -34,14 +32,7 @@
           <h2>Header 2</h2>
           <h3>Header 3</h3>
            </p> </div>       
-<div></div>
-<div></div>
 
-
-<link
-rel="stylesheet"
-type="text/css"
-href="css/style.css"
 
 </head>
 
