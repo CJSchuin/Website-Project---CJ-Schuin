@@ -27,13 +27,9 @@
     <h2>The company that brings comfort to your home</h2>
      </p> </div>
     
-     <div id="wrapper">
-        <div style="height:300px;background:rgb(255, 255, 255);"><p> <h1>Header 1</h1>
-          <h2>Header 2</h2>
-          <h3>Header 3</h3>
-           </p> </div>       
 
 
-</head>
+
+</head
 
 </body>
