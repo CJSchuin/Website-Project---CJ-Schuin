@@ -15,10 +15,10 @@
   <body bgColor="#f2ebeb">
     <div style="height:100px;background:rgb(74, 183, 255);"><p> <h1><div class="topnav">
       <div style="height:100px;text-decoration-color: rgb(255, 255, 255);">
-      <a class="active" href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#contact">Contact</a>
-      <a href="#login">Login</a>
+      <link><a class="active" href="#home">Home</a></link>
+      <link><a href="#about">About</a></link>
+      <link><a href="#contact">Contact</a></link>
+      <link><a href="#login">Login</a></link>
     </p> </div>
 
  
