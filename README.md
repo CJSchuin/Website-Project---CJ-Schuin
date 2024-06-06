@@ -11,25 +11,30 @@
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
+<!-- Name the Webpage-->
+<title>EES Official</title>
 <div id="wrapper"> 
-  <body bgColor="#f2ebeb">
-    <div style="height:100px;background:rgb(74, 183, 255);"><p> <h1><div class="topnav">
-      <div style="height:100px;text-decoration-color: rgb(255, 255, 255);">
+  
+  <h1><a>EES (Energy Efficient Solutions) </a></h1>
+    <nav style="height:80px;background:rgb(74, 183, 255);"><p> <h1><div class="topnavbar">
       <link><a class="active" href="#home">Home</a></link>
       <link><a href="#about">About</a></link>
       <link><a href="#contact">Contact</a></link>
       <link><a href="#login">Login</a></link>
-    </p> </div>
+    </p> </nav>
+  
+     <div id="wrapper"> 
+          <h2><p>We worry about your health </p></h2>
+          <h3><p>Our products is the most efficient way to keep healty, clean and comfortable </p></h3>
+         </div> 
+
+
+
+<link
+rel="stylesheet"
+type="text/css"
+href="css/style.css"
+
+</head>
 
  
- <div id="wrapper">
-  <p> <h1>EES </h1>
-    <h2>The company that brings comfort to your home</h2>
-     </p> </div>
-    
-
-
-
-</head
-
-</body>
