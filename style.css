@@ -1,1 +1,6 @@
-p { color: red;}
+body{text-decoration-color:"#f2ebeb";}
+p{font-size: 35px ;
+    font-style:oblique;}
+    a{font-size: 40px; 
+        text-align: center;
+        font-style:oblique}
