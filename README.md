@@ -1,43 +1,29 @@
 <!DOCTYPE html>
-
-<!-- this tells the computer that it is a website-->
+<title>EES Official</title>
+	<!-- this tells the computer that it is a website-->
 
 <!-- Our head tag is where we set our character se, and create links or paths to files we will be using -->
 
-
 <head>
-    <link href="https://fonts.googleapis.com/css?family-Work+Sans:400">
-    <link href="css/styles2.css" rel="stylesheet" type="text/css"
-    <meta charset="utf-8">
-    <title>EES</title>
-    
-<title>EES</title>
-</head>
+<!-- sets character set to Unicode -->
+<meta charset = "utf-8">
 
+<!--links to the css path-->
 
-<body>
-<header>
-<div class="container">
- 
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
-<!-- this tells the computer that it is a nav bar and is linked ot -->
-
-<!-- This will be the navigation bar. To make it easier to get the information that people want and so I can fit more info in on one page--> 
-    
-<nav> 
-  <ul>
-   <li><a href="#home">Home</a></li>
-   <li><a href="#about">About</a></li>
-   <li><a href="#contact">Contact</a></li>
-   <li><a href="#login">Login</a></li>
-  </ul>
- </nav>
+<!-- Name the Webpage-->
+<nav>
+<div id="wrapper"> 
+  <h1><a>EES (Energy Efficient Solutions) </a></h1>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+	    <li><a href="#login">Login</a></li>
 
 </div>
-</header>
-
-
-<!-- And this ends the body and html of the code-->
-
-</body>
-</html>
+	</nav>
+<div id="wrapper">
+          <h2><p>EES Waikato, your trusted aircon and heat pumps specialist </p></h2>
+          <h3><p>Our products is the most efficient way to keep healthy, clean and comfortable </p></h3>
+         </div>
