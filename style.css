@@ -1,6 +1,87 @@
-body{text-decoration-color:"#f2ebeb";}
-p{font-size: 35px ;
-    font-style:oblique;}
-    a{font-size: 40px; 
-        text-align: center;
-        font-style:oblique}
+.btn {
+  background-color: #ddd;
+  border: solid;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #9cd6f7;
+  color: white;
+}
+
+nav {
+  height: 100px;
+  background-color: grey;
+  margin: 30px 0;
+  border-radius: 20px;
+  border: solid black; /* Combined border-style and border-color */
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Baskervville-SC; /* Changed 'font-style' to 'font-family' */
+}
+
+body {
+  background-image: url('file:///C:/Users/cjsch/Downloads/Waikato-River-Hamilton-New-Zealand.webp');
+  background-size: 100%;
+  /* Added missing semicolon */
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+
+.container {
+    position: relative;
+    width: 50%;
+    margin: 0 auto; /* Center the container horizontally */
+  }
+
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000000;
+  }
+
+  .container:hover .overlay {
+    opacity: 0.5;
+  }
+
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the text vertically and horizontally */
+    text-align: center;
+  }
